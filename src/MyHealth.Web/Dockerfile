@@ -1,4 +1,4 @@
-FROM sriramdasbalaji/aspnetcore1.0:1.0.4
+FROM az400mp/aspnetcore1.0:1.0.4
 ARG source
 WORKDIR /app
 EXPOSE 80
